@@ -11,6 +11,8 @@ Originally built to support a bachelor's thesis on intraday order-flow
 informativeness; the analysis pipeline that consumes this data is kept in
 a separate repository.
 
+This code was developed with assistance from Claude Code. 
+
 ## What it collects
 
 - **Order books** (`scripts/continuous_collector.py`): mid-price, best bid/ask,
