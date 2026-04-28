@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1223693739.svg)](https://doi.org/10.5281/zenodo.19858618)
+
 # Polymarket Data Collector
 
 A two-process data collection system for Polymarket prediction markets,
