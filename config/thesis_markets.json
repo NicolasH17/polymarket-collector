@@ -1,0 +1,184 @@
+{
+  "generated_at_utc": "2026-02-12T14:12:34.763626+00:00",
+  "meta": {
+    "purpose": "Master thesis data collection",
+    "collection_period": "2-3 weeks",
+    "snapshot_interval_seconds": 300,
+    "trades_interval_seconds": 300,
+    "total_markets": 13,
+    "concentrated_markets": 7,
+    "diffuse_markets": 6,
+    "failed_slugs": []
+  },
+  "markets": [
+    {
+      "gamma_market_id": "1367195",
+      "condition_id": "0x98c0aa27e741d5bfeb0a06e68bddd256b857fd27597c76c500250db1483c51aa",
+      "slug": "us-strikes-iran-by-march-15-2026",
+      "question": "US strikes Iran by March 15, 2026?",
+      "tokens": {
+        "yes": "72169238921197925373760655508554204363420378094004568451083033336165979963995",
+        "no": "24823270982069372386196780863186781805260238412728166153976598518846127170245"
+      },
+      "end_date": "2026-06-30",
+      "group": "US Iran strikes",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "654414",
+      "condition_id": "0x257b18205f908aef01ef2d1d50e6fea7d29cf5486fe04031d8b101394476faed",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting",
+      "question": "Will there be no change in Fed interest rates after the March 2026 meeting?",
+      "tokens": {
+        "yes": "102559817034631022221500208641784929295731053857601013029449249654006364919935",
+        "no": "114350083305515876605975857295292847572608542141507135338338719165921048222327"
+      },
+      "end_date": "2026-03-18",
+      "group": "Fed Decision In March",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "1303397",
+      "condition_id": "0xe00d6ce6106b54b8f13fbe935e529ea7aab9e3ace9ae3fcc4f7c65372eb0b8ef",
+      "slug": "will-bitcoin-dip-to-60000-in-february-694",
+      "question": "Will Bitcoin dip to $60,000 in February?",
+      "tokens": {
+        "yes": "10173760944708366003313904598971409987613016696437105074768621813128448039101",
+        "no": "108429706881050535136553495584290453237980841377573952900810709890585276168668"
+      },
+      "end_date": "2026-03-01",
+      "group": "Bitcoin Price in February",
+      "information_concentration": "diffuse"
+    },
+    {
+      "gamma_market_id": "597967",
+      "condition_id": "0xbee2cd40473495f713c69b9dfbce9fc2837fa4011568222c83c83bb773e35053",
+      "slug": "starmer-out-by-june-30-2026-862-594",
+      "question": "Starmer out by June 30, 2026?",
+      "tokens": {
+        "yes": "34554555827438551101000555305203609600029621153428996114009350892614396532498",
+        "no": "64622848174080349355505680625481066249195809702245025265549356236367119746958"
+      },
+      "end_date": "2026-06-30",
+      "group": "Starmer",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "1004797",
+      "condition_id": "0x3124a63d6499006be1e1f82c72efb4dd2706b34e193dd67839de6615e2b0f60c",
+      "slug": "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-march-31",
+      "question": "Will Apple be the second-largest company in the world by market cap on March 31?",
+      "tokens": {
+        "yes": "17650734816192148631865413008800631441117184835523441879314036970940465064230",
+        "no": "15882137628174044073040836435500119360949172129004960610654037216973705176255"
+      },
+      "end_date": "2026-03-31",
+      "group": "Second Largest Company End of March",
+      "information_concentration": "diffuse"
+    },
+    {
+      "gamma_market_id": "1273328",
+      "condition_id": "0xd7e6e54bf46892aec7f865e84d7695e3b1d7686302bf28ccc0be5847e85a65ee",
+      "slug": "will-gold-gc-hit-high-5500-by-end-of-february-743-796-985-593-523-417-437",
+      "question": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+      "tokens": {
+        "yes": "98257025456424215677307133371337623577823422273262288920948321774082518211464",
+        "no": "92873152961305004922714071708599676842667498651324333095990834281045542621033"
+      },
+      "end_date": "2026-02-28",
+      "group": "Gold Price",
+      "information_concentration": "diffuse"
+    },
+    {
+      "gamma_market_id": "916732",
+      "condition_id": "0x70909f0ba8256a89c301da58812ae47203df54957a07c7f8b10235e877ad63c2",
+      "slug": "khamenei-out-as-supreme-leader-of-iran-by-march-31",
+      "question": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "tokens": {
+        "yes": "70771354585365381988139008309072205730081182435161568795508496003376222185889",
+        "no": "46746822541461330721074821991383617225657173789584499857683753079229786702095"
+      },
+      "end_date": "2026-03-31",
+      "group": "Khamenei",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "610380",
+      "condition_id": "0x707125b175feb87a7d28c1e3b0e8e834f11c0dff65edac8c4fe5d1e12bf8fc33",
+      "slug": "ukraine-election-called-by-june-30-2026-392",
+      "question": "Ukraine election called by June 30, 2026?",
+      "tokens": {
+        "yes": "46392352440640691691403913163796829338832584619874037984805155658143745393622",
+        "no": "38746974225100760605049476871091018825176822620072388068043468416649080453478"
+      },
+      "end_date": "2025-12-31",
+      "group": "Ukraine",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "957019",
+      "condition_id": "0xa70fc3695a65833b91b45df6db6015096f3e1471b70352ca411b4209010e7633",
+      "slug": "us-iran-nuclear-deal-by-june-30",
+      "question": "US-Iran nuclear deal by June 30?",
+      "tokens": {
+        "yes": "68283792174293775430535402015214113701251372409839518501034763677920213819299",
+        "no": "10690391194840875541563517589463912963575786539307433160985752952931887140267"
+      },
+      "end_date": "2026-06-30",
+      "group": "US-Iran Deal",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "569368",
+      "condition_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+      "slug": "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election",
+      "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+      "tokens": {
+        "yes": "62374557612691330043510053829591470998236327248924987579815802826988260253261",
+        "no": "45225184915026490412090111842887484470550126139644389135401954155408710524398"
+      },
+      "end_date": "2026-06-21",
+      "group": "Colombia Presidential Election",
+      "information_concentration": "diffuse"
+    },
+    {
+      "gamma_market_id": "676795",
+      "condition_id": "0xc8a898fa8ce2121e3bba1ee52120ed8ab4f8ea7ed5a6dcd9b138fe7b9e454c0b",
+      "slug": "spacex-space-exploration-technologies-corp-ipo-before-2027",
+      "question": "SpaceX (Space Exploration Technologies Corp.) IPO before 2027?",
+      "tokens": {
+        "yes": "107944030544487331600756278564213211285916626788584899601539079933566960065557",
+        "no": "83201356904852755468238099143349835359028248079788652710244965283576437316776"
+      },
+      "end_date": "2026-12-31",
+      "group": "SpaceX IPO",
+      "information_concentration": "concentrated"
+    },
+    {
+      "gamma_market_id": "601819",
+      "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "tokens": {
+        "yes": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+        "no": "79191939610100241429039499950443680906623179487184628479206155805558220344190"
+      },
+      "end_date": "2026-10-04",
+      "group": "Brazil Presidential Election",
+      "information_concentration": "diffuse"
+    },
+    {
+      "gamma_market_id": "562186",
+      "condition_id": "0x99a0fdc1bb6308873bf87eb75a47e21c8340fe20fb6b033444c1d21392da10a9",
+      "slug": "will-ken-paxton-win-the-2026-republican-primary",
+      "question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "tokens": {
+        "yes": "43891259347116330522865864075089973515827852946539612217753302847337982135578",
+        "no": "114134832775772592035076635156705298512014414341622748270460538141767888144004"
+      },
+      "end_date": "2026-03-03",
+      "group": "Texas Republican Primary",
+      "information_concentration": "diffuse"
+    }
+  ]
+}
